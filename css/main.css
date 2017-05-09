@@ -1,0 +1,15 @@
+#main body {
+  background-color: lightseagreen;
+  .img {
+  height: 50px;
+  width: 50px;
+  }
+  .caja1 {
+  background-color: pink;
+  height: 400px;
+  }
+  .caja2 {
+  background-color: rosybrown;
+  height: 400px;
+  }
+}
